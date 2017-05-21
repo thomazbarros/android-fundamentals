@@ -9,7 +9,7 @@
     android:orientation="vertical"
     android:padding="16dp"
     android:visibility="visible"
-    tools:context="thomaz.barros.cap3101.MainActivity">
+    tools:context="thomaz.barros.cap3102.MainActivity">
 
     <TextView
         android:layout_width="match_parent"

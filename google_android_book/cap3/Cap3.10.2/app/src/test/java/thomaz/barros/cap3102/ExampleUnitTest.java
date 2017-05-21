@@ -1,4 +1,4 @@
-package thomaz.barros.cap3101;
+package thomaz.barros.cap3102;
 
 import org.junit.Test;
 

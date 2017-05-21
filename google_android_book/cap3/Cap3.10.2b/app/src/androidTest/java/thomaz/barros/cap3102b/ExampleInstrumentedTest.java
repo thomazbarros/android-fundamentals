@@ -1,4 +1,4 @@
-package thomaz.barros.cap3101;
+package thomaz.barros.cap3102b;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("thomaz.barros.cap3101", appContext.getPackageName());
+        assertEquals("thomaz.barros.cap3102b", appContext.getPackageName());
     }
 }
