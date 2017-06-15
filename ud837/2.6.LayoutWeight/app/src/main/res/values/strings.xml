@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">2.6.Layout Weight</string>
+    <string name="intro">You\'re invited!</string>
+    <string name="msg">Bonfire at the beach.</string>
 </resources>
